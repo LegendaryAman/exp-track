@@ -83,3 +83,11 @@ http://localhost:3000
 👨‍💻 Developer
 Aman Maurya
 GitHub: https://github.com/LegendaryAman
+
+## 🌍 Live Project
+
+Frontend:
+https://exp-track-fmfnicp4u-amans-projects-6e727a1b.vercel.app
+
+Backend API:
+https://exp-track-n2e2.onrender.com
