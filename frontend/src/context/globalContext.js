@@ -4,7 +4,7 @@ import axios from 'axios'
 // import { getExpense } from "../../../backend/controllers/expense";
 const GlobalContext = React.createContext();
 
-const BASE_URL="http://localhost:5000/api/v1/"
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL + "/"
 
 export const GlobalProvider = ({ children }) => {
 
